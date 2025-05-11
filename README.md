@@ -14,11 +14,9 @@ A Spring Boot MVC application that fetches and displays random dog images using 
 
 ---
 
-## 📸 Demo
+## Screenshot
 
-![Dog Image Demo](https://images.dog.ceo/breeds/hound-afghan/n02088094_1003.jpg)
-
-> *Demo image from the API*
+![Project Screenshot](assets/appsnap.png)
 
 ---
 
